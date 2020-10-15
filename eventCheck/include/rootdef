@@ -1,0 +1,1 @@
+rootcint -f ../src/EventDict.cpp -c WFCTAEvent.h EventLinkDef.h

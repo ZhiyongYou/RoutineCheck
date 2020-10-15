@@ -1,0 +1,2 @@
+Rotation 0 deg zeroZ 0
+1 0 0 0.000
